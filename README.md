@@ -1,5 +1,5 @@
-# Dio_dessafio_github_primeiro_repo
-Reposiório do desafio do projeto sobre o github
-Desafio de projeto github
+# Reposiório do desafio do projeto sobre o git/github da DIO
+Desafio de projeto DIO
+
 ## links uteis
 [sintaxe básica markdown] (https://www.markdownguide.org/basic-syntax/)
